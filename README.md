@@ -8,3 +8,7 @@ Then, run the starter code
 
 
 ** Note: This readme will be updated before we actually submit to CMSC320, this is just for the group members. 
+
+When it comes time to submit:
+
+First, download the ipynb file as an HTML file. Then, rename it to index.html and commit it to the repo directly to the main branch so it replaces the current index.html. After doing this, if you go to https://nehashijo.github.io/, you will see the final webpage
